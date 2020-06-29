@@ -12,3 +12,6 @@ If you want to get the adjusted closing price of Samsung Electronics(005930.KR) 
   ```python
   SK = get_data('000660', 1200)['Volume']
   ```
+
+## History of change
+* First Commit, 06/29/2020
