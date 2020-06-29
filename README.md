@@ -14,4 +14,4 @@ If you want to get the adjusted closing price of Samsung Electronics(005930.KR) 
   ```
 
 ## History of change
-* First Commit, 06/29/2020
+* Make a repository, 06/29/2020
