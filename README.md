@@ -3,6 +3,8 @@ Scrap prices('Open', 'High', 'Low', 'Closing') or daily trading volume of Korean
 
 
 ## Example
+get_data('Company ticker symbol', 'lookback period')
+
 * If you want to get the adjusted closing price of Samsung Electronics(005930.KR) for last 1,000 days,
   ```python
   Samsung = get_data('005930', 1000)['Close']
@@ -12,6 +14,3 @@ Scrap prices('Open', 'High', 'Low', 'Closing') or daily trading volume of Korean
   ```python
   SK = get_data('000660', 1200)['Volume']
   ```
-
-## History of change
-* Make a repository, 06/29/2020
