@@ -3,7 +3,7 @@ Scrap prices('Open', 'High', 'Low', 'Closing') or daily trading volume of Korean
 
 
 ## Parameteres
-**Company ticker symbol**: a string or a list of strings
+**Company ticker symbol**: a string or a list of strings <br>
 **lookback period**: an integer
 
 
