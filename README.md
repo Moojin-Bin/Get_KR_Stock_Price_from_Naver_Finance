@@ -1,6 +1,10 @@
 ## Get Korean Stock Price from Naver Finance
 Scrap prices('Open', 'High', 'Low', 'Closing') or daily trading volume of Korean stocks from [NAVER Finance](https://finance.naver.com)
 
+## Parameteres
+**Company ticker symbol**: a string or a list of strings. 
+**lookback period**: an integer
+
 
 ## Example
 get_data('Company ticker symbol', 'lookback period')
